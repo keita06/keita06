@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=keita06)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=keita06)
 
 <!--
 **keita06/keita06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
